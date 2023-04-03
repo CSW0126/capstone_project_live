@@ -8,7 +8,7 @@ Simulation Game for Algorithm Trading is a trading simulation game designed for 
 2. Clone this repository to your local machine using Git:
 
 ```
-git clone [repository URL]
+git clone https://github.com/CSW0126/capstone_project_live.git
 ```
 
 ### Server Installation
